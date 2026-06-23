@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title:  Deep Selective Encoder-Decoder Network for High-Density Salt-and-Pepper Noise Removal
+message: "If you use this paper, please cite it as below."
+authors:
+  - family-names: Chilakala
+    given-names: Shanthi
+affiliation: National Institute of Technology Warangal
+version: 1.0
+date-released: 2026-06-01
+repository-code: "https://github.com/shanthi_nitw/paper"
