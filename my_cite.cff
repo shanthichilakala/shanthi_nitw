@@ -1,0 +1,9 @@
+@software{Chilakala2026,
+  author  = {Chilakala, Shanthi},
+  title   = {Deep Selective Encoder-Decoder Network for High-Density Salt-and-Pepper Noise Removal},
+  version = {1.0},
+  year    = {2026},
+  month   = jun,
+  url     = {https://github.com/shanthi_nitw/paper},
+  note    = {GitHub repository}
+}
