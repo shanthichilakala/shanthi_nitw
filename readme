@@ -1,0 +1,32 @@
+
+
+Official implementation of
+
+"Deep Selective Encoder-Decoder Network for High-Density Salt-and-Pepper Noise Removal"
+
+## Requirements
+
+- Python 3.10
+- TensorFlow 2.x
+- NumPy
+- OpenCV
+- Matplotlib
+#training
+Run the files: 
+python SPN.py
+python datagenerator.py
+python model.py
+python train.py
+weights automatically saved in weights folder
+
+## Testing
+python test.py
+
+
+
+Contact:
+## 9381857304
+
+Shanthi Chilakala
+
+National Institute of Technology Warangal
